@@ -1,0 +1,37 @@
+body{
+   background-color: rgb(250, 248, 247);
+}
+h1{
+        
+    text-align: center;
+    color: rgb(76, 199, 183);
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    margin: 0;
+   
+   
+
+ }
+ a{
+   font-size: 15px;
+ }
+
+div{
+    
+    width: 300px;
+    height: 50px;
+    margin: auto;
+   }
+
+ h2{
+      text-align: center;
+      font-size: 30px;
+      font-family:'Times New Roman';
+      color: rgb(190, 2, 2);
+     }
+
+img{
+height: 250px;
+width: 350px;
+}
